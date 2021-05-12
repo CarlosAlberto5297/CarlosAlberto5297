@@ -45,7 +45,7 @@
 #### 👀 Estou interessado
 <p>
  <img align="center" alt="cshap" height="40" width"50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"style-"max-width:100%;">
- <img align="center" alt=".net" height="40" width"50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"style-"max-width:100%;">
+ <img align="center" alt=".net" height="40" width"50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"style-"max-width:100%;">
  <img align="center" alt="sql-server" height="40" width"50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"style-"max-width:100%;">
  <img align="center" alt="docker" height="40" width"50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"style-"max-width:100%;">
  <img align="center" alt="" height="40" width"50" src=""style-"max-width:100%;">
