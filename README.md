@@ -1,6 +1,6 @@
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://www.linkedin.com/in/carlos-silva-27774420b/">Carlos</a></h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/carlos-silva-27774420b/">
+  <a href="https://www.linkedin.com/in/carlos-silva-27774420b/" target="_blank">
     <img align="center" alt="Carlos-Linkedin" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style-"max-width:100%;">
   </a> 
 </p>
