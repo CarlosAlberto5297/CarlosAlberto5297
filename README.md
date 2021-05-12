@@ -25,23 +25,18 @@
 ### 💼 Atualmente Trabalho com
 
 <p>
-  <img align="center" alt="Carlos-Linkedin" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style-"max-width:100%;">
-  <img align="center" alt="Carlos-Linkedin" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style-"max-width:100%;">
+  <img align="center" alt="javascript" height="30" width"40" src="hhttps://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style-"max-width:100%;">
+  <img align="center" alt="html5" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style-"max-width:100%;">
   
  </p>
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
-[Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
+
 
 ### 💻 Estudando atualmente
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
 
+<p>
+  <img align="center" alt="javascript" height="30" width"40" src="hhttps://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style-"max-width:100%;">
+</p>
 
 ### 👀 Estou interessado
-![c#]
+
 
