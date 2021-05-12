@@ -1,6 +1,8 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://shwetang.netlify.app/">Carlos</a></h2>
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://www.linkedin.com/in/carlos-silva-27774420b/">Carlos</a></h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/carlos-silva-27774420b/">Linkedin</a> •
+  <a href="https://www.linkedin.com/in/carlos-silva-27774420b/">
+    <img align="center" alt="Carlos-Linkedin" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style-"max-width:100%;">
+  </a> 
 </p>
 
  <br>
@@ -21,6 +23,7 @@
 
 
 ### 💼 Atualmente Trabalho com
+<a herf="
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
