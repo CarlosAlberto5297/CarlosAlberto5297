@@ -22,21 +22,33 @@
 **Linguagens e ferramentas**
 
 
-### 💼 Atualmente Trabalho com
+#### 💼 Atualmente Trabalho com
 
 <p>
-  <img align="center" alt="javascript" height="30" width"40" src="hhttps://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style-"max-width:100%;">
-  <img align="center" alt="html5" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style-"max-width:100%;">
+  <img align="center" alt="javascript" height="40" width"50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style-"max-width:100%;">
+  <img align="center" alt="git" height="40" width"50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"style-"max-width:100%;">
+  <img align="center" alt="html5" height="40" width"50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style-"max-width:100%;">
+  <img align="center" alt="css3" height="40" width"50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"style-"max-width:100%;">
+  <img align="center" alt="Vscode" height="40" width"50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"style-"max-width:100%;">
+  <img align="center" alt="linux" height="40" width"50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"style-"max-width:100%;">
+  <img align="center" alt="windowns" height="40" width"50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"style-"max-width:100%;">
   
  </p>
 
 
-### 💻 Estudando atualmente
+#### 💻 Estudando atualmente
 
 <p>
-  <img align="center" alt="javascript" height="30" width"40" src="hhttps://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style-"max-width:100%;">
+  <img align="center" alt="javascript" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style-"max-width:100%;">
 </p>
 
-### 👀 Estou interessado
+#### 👀 Estou interessado
+<p>
+ <img align="center" alt="cshap" height="40" width"50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"style-"max-width:100%;">
+ <img align="center" alt=".net" height="40" width"50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"style-"max-width:100%;">
+ <img align="center" alt="sql-server" height="40" width"50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"style-"max-width:100%;">
+ <img align="center" alt="docker" height="40" width"50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"style-"max-width:100%;">
+ <img align="center" alt="" height="40" width"50" src=""style-"max-width:100%;">
+</p>
 
 
